@@ -1,0 +1,5 @@
+.idea
+venv
+venv3.9
+sonar-fix.iml
+context/cpuarch.amd64
